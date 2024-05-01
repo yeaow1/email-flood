@@ -1,0 +1,2 @@
+/root/projects/email-flood/publish/email-flood.pdb
+/root/projects/email-flood/publish/email-flood.exe
